@@ -47,4 +47,4 @@ O notebook utiliza arquivos `.csv` compactados `.tar.gz`. Certifique-se de ter o
 
 Você pode executar diretamente no Google Colab clicando abaixo:
 
-[![Abrir no Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/](https://colab.research.google.com/drive/1Jl5g0ljqp8x7G3bADikPSj_L66xVGPYC?usp=sharing))
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jl5g0ljqp8x7G3bADikPSj_L66xVGPYC?usp=sharing)
